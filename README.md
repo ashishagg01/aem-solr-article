@@ -1,0 +1,1 @@
+# aem-solr-article
